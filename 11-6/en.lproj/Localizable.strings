@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  11-6
+
+  Created by Kenny Luchau on 11/17/23.
+  
+*/
+"greeting-label" = "Hello world!";
+"button-label" = "Tap me";
+"placeholder-label" = "Type your name here";

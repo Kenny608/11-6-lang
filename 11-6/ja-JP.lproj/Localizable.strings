@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  11-6
+
+  Created by Kenny Luchau on 11/17/23.
+  
+*/
+"greeting-label" = "「こんにちは世界 ";
+"button-label" = "タップしてください";
+"placeholder-label" = "名前を入力してください";
