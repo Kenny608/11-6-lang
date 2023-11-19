@@ -5,6 +5,11 @@
   Created by Kenny Luchau on 11/17/23.
   
 */
-"greeting-label" = "「こんにちは世界 ";
-"button-label" = "タップしてください";
+//"greeting-label" = "「こんにちは世界 ";
+//"button-label" = "タップしてください";
+//"placeholder-label" = "名前を入力してください";
+
+"greeting-label %@" = "「こんにちは世界 , %@";
+"%lld button-label" = "%lld タップしてください";
 "placeholder-label" = "名前を入力してください";
+"pi-label %lf" = "円周率の値は %lf";

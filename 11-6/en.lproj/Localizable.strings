@@ -5,6 +5,11 @@
   Created by Kenny Luchau on 11/17/23.
   
 */
-"greeting-label" = "Hello world!";
-"button-label" = "Tap me";
-"placeholder-label" = "Type your name here";
+//"greeting-label" = "Hello world!";
+//"button-label" = "Tap me";
+//"placeholder-label" = "Type your name here";
+
+"greeting-label %@" = "Hello, %@";
+"%lld button-label" = "%lld Tap me";
+"placeholder-label" = "Type here";
+"pi-label %lf" = "Value of pi = %lf";
